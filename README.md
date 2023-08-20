@@ -5,7 +5,11 @@ A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+git clone https://github.com/Npmauney/Chain-story-writing-app.git
+```
+
+```bash
+yarn
 ```
 
 ## Features
@@ -21,16 +25,10 @@ npx create-next-app -e https://github.com/shadcn/next-template
 
 Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
 
- npm run dev
-    Starts the development server.
-
-  npm run build
-    Builds the app for production.
-
-  npm start
-    Runs the built app in production mode.
+`yarn dev`: Starts the development server.
+`yarn build`: Builds the app for production.
+`yarn start`: Runs the built app in production mode.
 
 We suggest that you begin by typing:
-
-  cd chainstory
-  npm run dev
+`cd Chain-story-writing-app`
+`yarn dev`
