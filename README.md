@@ -18,13 +18,26 @@ yarn
 
 Step 3: Run the project
 
-```yarn dev```: Starts the development server.
-```yarn build```: Builds the app for production.
-```yarn start```: Runs the built app in production mode.
+```bash
+yarn dev
+```
+
+: Starts the development server.
+
+```bash
+yarn build
+```: Builds the app for production.
+
+```bashyarn start```: Runs the built app in production mode.
 
 We suggest that you begin by typing:
-```cd Chain-story-writing-app```
-```yarn dev```
+```bash
+cd Chain-story-writing-app
+```
+
+```bash
+yarn dev
+```
 
 ## Features
 
