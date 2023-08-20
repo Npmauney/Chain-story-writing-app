@@ -9,13 +9,13 @@ The Collaborative Storytelling Platform is an interactive web-based application 
 ### Step 1: Clone the project
 
 ```bash
-git clone https://github.com/Npmauney/Chain-story-writing-app.git
+git clone https://github.com/Npmauney/Chain-story-writing-app.git 
 ```
 
 ### Step 2: Install Dependencies
 
 ```bash
-yarn
+yarn # Inside the project directory ie. cd Chain-story-writing-app
 ```
 
 ### Step 3: Run the project
