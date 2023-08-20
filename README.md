@@ -28,9 +28,14 @@ yarn dev
 yarn build
 ```: Builds the app for production.
 
-```bashyarn start```: Runs the built app in production mode.
+```bash
+yarn start
+```
+
+: Runs the built app in production mode.
 
 We suggest that you begin by typing:
+
 ```bash
 cd Chain-story-writing-app
 ```
