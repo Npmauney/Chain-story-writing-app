@@ -19,22 +19,16 @@ yarn
 ### Step 3: Run the project
 
 ```bash
-yarn dev
+yarn dev # Starts the development server
 ```
-
-: Starts the development server.
 
 ```bash
-yarn build
+yarn build # Builds the app for production.
 ```
-
-: Builds the app for production.
 
 ```bash
-yarn start
+yarn start # Runs the built app in production mode
 ```
-
-: Runs the built app in production mode.
 
 We suggest that you begin by typing:
 
