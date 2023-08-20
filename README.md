@@ -26,7 +26,9 @@ yarn dev
 
 ```bash
 yarn build
-```: Builds the app for production.
+```
+
+: Builds the app for production.
 
 ```bash
 yarn start
