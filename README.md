@@ -4,19 +4,19 @@ A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 
 ## Usage
 
-Step 1: Clone the project
+### Step 1: Clone the project
 
 ```bash
 git clone https://github.com/Npmauney/Chain-story-writing-app.git
 ```
 
-Step 2: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 yarn
 ```
 
-Step 3: Run the project
+### Step 3: Run the project
 
 ```bash
 yarn dev
