@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "Chainstory",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "A web-based platform where users can collaboratively write and co-create stories in a turn-based manner, with customizable entry lengths and real-time updates.",
   mainNav: [
     {
       title: "Home",
@@ -11,8 +11,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
+    github: "https://github.com/Npmauney/Chain-story-writing-app",
+    docs: "https://github.com/Npmauney/Chain-story-writing-app",
   },
 }
